@@ -36,6 +36,9 @@
 # Log files should be ignored.
 /log/*.log
 
+# TP
+/tools/*
+
 # No need to share our individual sites with each other
 /www/*
 
